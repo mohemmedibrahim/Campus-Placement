@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="CampusPlacement.Application/CampusPlacement.Application.csproj" />
+  <Project Path="CampusPlacement.Domain/CampusPlacement.Domain.csproj" />
+  <Project Path="CampusPlacement.Infrastructure/CampusPlacement.Infrastructure.csproj" />
+  <Project Path="CampusPlacement/CampusPlacement.csproj" />
+</Solution>
