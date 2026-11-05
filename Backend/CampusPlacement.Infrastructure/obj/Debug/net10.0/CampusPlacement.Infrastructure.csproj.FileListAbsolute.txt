@@ -1,0 +1,15 @@
+D:\CampusPlacement\CampusPlacement.Infrastructure\bin\Debug\net10.0\CampusPlacement.Infrastructure.deps.json
+D:\CampusPlacement\CampusPlacement.Infrastructure\bin\Debug\net10.0\CampusPlacement.Infrastructure.dll
+D:\CampusPlacement\CampusPlacement.Infrastructure\bin\Debug\net10.0\CampusPlacement.Infrastructure.pdb
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.AssemblyInfoInputs.cache
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.AssemblyInfo.cs
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.dll
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\refint\CampusPlacement.Infrastructure.dll
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.pdb
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\ref\CampusPlacement.Infrastructure.dll
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPl.CA692CF4.Up2Date
+D:\CampusPlacement\CampusPlacement.Infrastructure\bin\Debug\net10.0\CampusPlacement.Domain.dll
+D:\CampusPlacement\CampusPlacement.Infrastructure\bin\Debug\net10.0\CampusPlacement.Domain.pdb
+D:\CampusPlacement\CampusPlacement.Infrastructure\obj\Debug\net10.0\CampusPlacement.Infrastructure.csproj.AssemblyReference.cache
